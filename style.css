@@ -121,6 +121,7 @@ ul .bas a{
     margin: auto;
     color: #fff;
     position: relative;
+    border:1px #000;
 }
 
 .content .par{
