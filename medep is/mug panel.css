@@ -1,0 +1,193 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.kabody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin-left: -5vh;
+}
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.log{
+    width: 500px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+label{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 90px;
+    cursor: pointer;
+}
+
+.log a{
+    text-decoration: none;
+}
+
+
+
+#sem{
+    width: 130px;
+    height: -100px;
+    float: left;
+    object-fit: none;
+    object-position: 1px 1px ;
+    size: -100px;
+    border-radius: 10px;
+}
+
+#zaw{
+    width: 130px;
+    height: 150px;
+    float: left;
+    object-fit: none;
+    object-position: 1px 1px ;
+    size: -100px;
+    border-radius: 10px;
+}
+
+#gur{
+    width: 130px;
+    height: 150px;
+    float: left;
+    object-fit: none;
+    object-position: 1px 1px ;
+    size: -100px;
+    border-radius: 10px;
+}
+
+
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: -1700px;
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: rgb(255, 196, 0);
+}
+
+
+.log:hover{
+    background-color: rgb(212, 212, 212);
+}
+
+.cakbody{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 37vh;
+    margin-left: -5vh;
+    
+}
+
+.loj{
+    width: 500px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+.lojh2{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+#lojlab{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 80px;
+    cursor: pointer;
+}
+
+.loj a{
+    text-decoration: none;
+}
+
+
+
+
+.kacbody{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin-left: -5vh;
+    
+}
+
+.lok{
+    width: 500px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+.lokh2{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+#loklab{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 90px;
+    cursor: pointer;
+}
+
+.lok a{
+    text-decoration: none;
+}
+
+
+.loj:hover{
+    background-color: rgb(212, 212, 212);
+}
+.lok:hover{
+    background-color: rgb(212, 212, 212);
+}
+
