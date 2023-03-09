@@ -1,0 +1,352 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.kabody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin-left: -110vh;
+    margin-right: 34vh;
+}
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.log{
+    width: 450px;
+    border: 2px solid #ccc;
+    padding: 12px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+
+label{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 80px;
+    cursor: pointer;
+}
+
+.log a{
+    text-decoration: none;
+}
+
+#kit{
+    width: 130px;
+    height: -100px;
+    float: left;
+    object-fit: none;
+    object-position: 1px 1px ;
+    size: -100px;
+    border-radius: 10px;
+}
+
+#zaw{
+    width: 130px;
+    height: 150px;
+    float: left;
+    object-fit: none;
+    object-position: 0px 0px ;
+    max-block-size: 285px;
+    border-radius: 10px;
+    
+}
+
+#gur{
+    width: 130px;
+    height: 150px;
+    float: left;
+    object-fit: none;
+    object-position: 0px 0px ;
+    size: -100px;
+    border-radius: 10px;
+}
+
+#kat{
+    width: 130px;
+    height: 150px;
+    float: left;
+    object-fit: none;
+    object-position: 0px 0px ;
+    size: -100px;
+    border-radius: 10px;
+}
+#awm{
+    width: 130px;
+    height: 150px;
+    float: left;
+    object-fit: none;
+    object-position: 0px 0px ;
+    max-block-size: 285px;
+    border-radius: 10px;
+    
+}
+#m4{
+    width: 130px;
+    height: 150px;
+    float: left;
+    object-fit: none;
+    object-position: 0px 0px ;
+    max-block-size: 285px;
+    border-radius: 10px;
+    
+}
+
+
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: -1700px;
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: rgb(255, 196, 0);
+}
+
+
+.log:hover{
+    background-color: rgb(212, 212, 212);
+}
+
+.cakbody{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: cnter;
+    align-items: center;
+    height: 10vh;
+    margin-left: 73vh;
+    margin-top: -20vh;
+    
+}
+
+.loj{
+    width: 450px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+.lojh2{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+#lojlab{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 70px;
+    cursor: pointer;
+}
+
+.loj a{
+    text-decoration: none;
+}
+
+
+
+
+.kacbody{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: cnter;
+    align-items: center;
+    height: 10vh;
+    margin-left: 146vh;
+    margin-top: -10vh;
+    
+}
+
+.lok{
+    width: 450px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+.lokh2{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+#loklab{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 80px;
+    cursor: pointer;
+}
+
+.lok a{
+    text-decoration: none;
+}
+
+
+.loj:hover{
+    background-color: rgb(212, 212, 212);
+}
+.lok:hover{
+    background-color: rgb(212, 212, 212);
+}
+
+.lakbody{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: cnter;
+    align-items: center;
+    height: 70vh;
+    margin-left: 146vh;
+    margin-top: -10vh;
+    
+}
+
+
+.lak{
+    width: 450px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+.lakh2{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+#laklab{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 80px;
+    cursor: pointer;
+}
+
+.lak a{
+    text-decoration: none;
+}
+
+
+.lak:hover{
+    background-color: rgb(212, 212, 212);
+}
+
+.awmbody{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: cnter;
+    align-items: center;
+    height: 10vh;
+    margin-left: 73vh;
+    margin-top: -40vh;
+    
+}
+
+.awm{
+    width: 450px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+.awmh2{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+
+#awmlab{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 70px;
+    cursor: pointer;
+}
+
+.awm a{
+    text-decoration: none;
+}
+
+
+.awm:hover{
+    background-color: rgb(212, 212, 212);
+}
+
+.m4body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    margin-left: -110vh;
+    margin-right: 34vh;
+    margin-top: -10vh;
+}
+
+
+.m4{
+    width: 450px;
+    border: 2px solid #ccc;
+    padding: 12px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: 0.4s ease-in-out;
+}
+
+.m4h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+
+#m4lab{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 80px;
+    cursor: pointer;
+}
+
+.m4 a{
+    text-decoration: none;
+}
+.m4:hover{
+    background-color: rgb(212, 212, 212);
+}
