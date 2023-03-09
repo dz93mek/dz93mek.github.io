@@ -5,6 +5,7 @@
     width: 100%;
     flex-wrap:wrap;
     flex-basis:300px;
+    flex-grow:1;
 }
 
 .container .navbar{
